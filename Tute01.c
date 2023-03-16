@@ -11,7 +11,7 @@ int main() {
   printf("Enter Subject 01 Mark : ");     //Input subject 1 mark 
   scanf("%d", &mark1);
 
-  printf("Enter Subject 02 Mark : ");     //Input subject 1 mark 
+  printf("Enter Subject 02 Mark : ");     //Input subject 2 mark 
   scanf("%d", &mark2);
 
   avg = (mark1 + mark2) / 2;              //Calculate average
